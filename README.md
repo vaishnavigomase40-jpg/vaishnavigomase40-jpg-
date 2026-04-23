@@ -1,5 +1,5 @@
 
-<!-- 🌊 HERO HEADER -->
+<!-- 🌊 HEADER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Vaishnavi%20Gomase&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
@@ -12,15 +12,17 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="240" src="vaishnavigomase40-jpg" style="border-radius:20px; border:3px solid #6a11cb;"/>
+<img align="right" width="230"
+src="profile.jpg"
+style="border-radius:20px; border:3px solid #6a11cb; box-shadow:0px 0px 15px #6a11cb;" />
 
 - 💁‍♀️ She / Her  
 - 🎓 3rd Year Computer Engineering Student  
 - 📚 B.Com Student  
 - 💼 Developer Trainee at MBIG  
 - 🚀 Full Stack Developer (Java | MERN Stack)  
-- 🌱 Currently learning System Design & Backend Architecture  
-- 💡 Passionate about building real-world projects  
+- 🌱 Learning System Design & Backend  
+- 💡 Passionate about real-world projects  
 
 ---
 
@@ -43,18 +45,14 @@
 
 ## 🚀 Projects
 
-<div style="background:#0f0c29; color:white; padding:15px; border-radius:15px;">
+💬 **Chat Application**  
+✔ Spring Boot + WebSocket  
 
 🎮 **Typing Battle Game**  
-➡ HTML, CSS, JavaScript based typing speed game  
-
-💬 **Chat Application**  
-➡ Real-time chat using Spring Boot + WebSocket  
+✔ HTML + CSS + JS  
 
 🌐 **Portfolio Website**  
-➡ Responsive personal developer portfolio  
-
-</div>
+✔ Responsive personal website  
 
 ---
 
@@ -92,7 +90,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -124,15 +122,10 @@
 
 ## 💖 Quote
 
-<div align="center">
-
-> “Code is not just syntax, it’s creativity turned into reality.” 🚀
-
-</div>
+> “Code is not just written, it is crafted.” 🚀
 
 ---
 
-<!-- 🌊 FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
