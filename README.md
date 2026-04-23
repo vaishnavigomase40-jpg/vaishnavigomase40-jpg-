@@ -25,7 +25,6 @@
 
 <td width="40%" align="center">
 
-<img src="vaishnavigomase40-jpg" width="220" style="border-radius:20px; border:4px solid #6a11cb; box-shadow:0px 0px 20px #6a11cb;" />
 
 </td>
 </tr>
